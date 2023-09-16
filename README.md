@@ -3,11 +3,11 @@
 <h3 align="center">I'm Luis Fernando, an Enthusiastic who does Machine Learning/Deep learning development, and research on Computer Vision, medical analysis, and statistical analysis. Experienced in TensorFlow, Keras, Pytorch, Scikit-learn, MLOps, AWS, and Docker.  Passionate to contribute to open-source projects and make cool products.</h3>
 
 
-- 📚 I’m currently Study on [Universidad de Antioquia](https://udea.edu.co/wps/portal/udea/web/inicio/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_QJNXQ2NnA18_D2NXQ0CLf1MA4zdPY1MzI31wwkpiAJKG-AAjgZA_VFgJRaWzkaGjiYGPgbehqYGjoGuAX4h_s4BLl5GUAV4zCjIjTDIdFRUBAC3KPbO/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+- 📚 I’m currently Studying at [Universidad de Antioquia](https://udea.edu.co/wps/portal/udea/web/inicio/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_QJNXQ2NnA18_D2NXQ0CLf1MA4zdPY1MzI31wwkpiAJKG-AAjgZA_VFgJRaWzkaGjiYGPgbehqYGjoGuAX4h_s4BLl5GUAV4zCjIjTDIdFRUBAC3KPbO/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
 
-- 🌱 I’m currently learning **Machine learning and Computer Vision**
+- 🌱 I’m currently learning **Machine learning, Deep Learning, and Computer Vision**
 
-- 🎓 I am currently doing research in Medical Image Analysis.  
+- 🎓 I am currently doing research in Medical Image Analysis, Embedded machine learning,   
 
 ## Contact me : 
 <a href="luis.torres1@udea.edu.co" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-logo-286F380C2D-seeklogo.com.png" height="30" width="40" /></a>
@@ -28,7 +28,6 @@
    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>  
    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>  
    <img src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" alt="Keras" width="40" height="40"/>
    <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="Sk" width="70" height="30"/>
    
@@ -41,4 +40,4 @@
 
 
 
-Last Edited on: 23/07/2023
+Last Edited on: 16/09/2023
