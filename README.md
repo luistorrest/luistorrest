@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luis Fernando Torres</h1>
 
-<h3 align="center">I'm Luis Fernando, an Enthusiastic who does Machine Learning/Deep learning development, and research on Computer Vision, medical analysis, and statistical analysis. Experienced in TensorFlow, Keras, Pytorch, Scikit-learn, MLOps, AWS, and Docker.  Passionate to contribute to open-source projects and make cool products.</h3>
+<h3 align="center">I'm Luis Fernando, an Enthusiastic who does Machine Learning/Deep learning development, and research on Computer Vision, medical analysis, and statistical analysis. Experienced in TensorFlow, Keras, Pytorch, Scikit-learn, MLOps, Bayes Neural Network, and Docker.  Passionate to contribute to open-source projects and make cool products.</h3>
 
 
 - 📚 I’m currently Studying at [Universidad de Antioquia](https://udea.edu.co/wps/portal/udea/web/inicio/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_QJNXQ2NnA18_D2NXQ0CLf1MA4zdPY1MzI31wwkpiAJKG-AAjgZA_VFgJRaWzkaGjiYGPgbehqYGjoGuAX4h_s4BLl5GUAV4zCjIjTDIdFRUBAC3KPbO/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
 
 - 🌱 I’m currently learning **Machine learning, Deep Learning, and Computer Vision**
 
-- 🎓 I am currently doing research in Medical Image Analysis, Embedded machine learning,   
+- 🎓 I am currently doing research in Medical Image Analysis, Embedded Machine Learning, and Human Motion.   
 
 ## Contact me : 
 <a href="luis.torres1@udea.edu.co" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-logo-286F380C2D-seeklogo.com.png" height="30" width="40" /></a>
@@ -40,4 +40,4 @@
 
 
 
-Last Edited on: 16/09/2023
+Last Edited on: 29/10/2023
